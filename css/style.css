@@ -97,3 +97,9 @@ footer{
     margin-top:16px ;
     font-size: 13px;
 }
+
+@media (max-width: 650px) {
+    .content-box.second {
+        font-size: 10px;
+    }
+}
