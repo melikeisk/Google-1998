@@ -102,4 +102,9 @@ footer{
     .content-box.second {
         font-size: 10px;
     }
+
+    .content-box input[type="text"] {
+        width: 157px;
+        padding: 1px 2px;
+    }
 }
